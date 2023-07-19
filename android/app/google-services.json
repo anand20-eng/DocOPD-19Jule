@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829517636412",
+    "project_id": "docopd-c3d3a",
+    "storage_bucket": "docopd-c3d3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829517636412:android:2c0316371ed284137eb439",
+        "android_client_info": {
+          "package_name": "com.cnq.DocOPD"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829517636412-3odk9btjscqtollurhe2es69tj6ejf1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHqeJWVYjXkYoBgkT5Bvl0uBZI3yJ_n7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829517636412-3odk9btjscqtollurhe2es69tj6ejf1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

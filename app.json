@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "DocOPD",
+    "slug": "DocOPD",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/doctor6jan.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#372F93"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "url": "http://localhost:3000/api/manifest" 
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.cnq.DocOPD",
+      "buildNumber": "1.0.0",
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-xxxxxx"
+      }
+    },
+    "android": {
+      "package": "com.cnq.DocOPD",
+      "versionCode": 2
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b71f49ce-b580-490c-aeef-49fa867d9e97"
+      }
+    }
+  }
+}
